@@ -1,0 +1,12 @@
+h1{
+    color:rgb(242, 245, 237);
+    text-align:center;
+    text-decoration: rgb(238, 73, 73);
+    padding-top:1cm;
+    font-family:'Times New Roman', Times, serif;
+}
+div.headerStyle
+{
+    background-color: rgb(103, 78, 248);
+    margin-top: -3em;
+}
